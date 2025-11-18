@@ -1,4 +1,6 @@
----
+anvil --fork-url https://mainnet.infura.io/v3/$INFURA_KEY0xfc2eE3bD619B7cfb2dE2C797b96DeeCbD7F68e46export ALICE=0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+export DAI=0x6b175474e89094c44da98b954eedeac495271d0f
+export UNLUCKY_USER=0xfc2eE3bD619B7cfb2dE2C797b96DeeCbD7F68e46---
 description: Test smart contract using forge test.
 ---
 
